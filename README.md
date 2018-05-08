@@ -8,5 +8,7 @@ The most popular script can be found here on the site: https://www.rpgmakercentr
 These scripts add various new systems to the RPG Maker VXAce game engine and writing this code allowed to me to add features I wanted into
 my games as well as help other people add features to their games.
 
+# Programming in the Community
+
 The fun part about this project is that I was able to interact with other people about my work. Members of the forums reported bugs or suggested features to add and I was able to alter my program to fix those bugs or integrate new features. Also, this meant that I had to explain my code clearly so people understand what it does. This also meant clear documentation of the editable modules so people know
 what to change and what changing certain values will do.
